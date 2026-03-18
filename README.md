@@ -43,11 +43,11 @@
 <!-- Comprehensive stats with custom theme -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/0-profile-details.svg" width="1000" alt="https://github.com/vn7n24fzkq/github-profile-summary-cards" />
-<img src="https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/1-repos-per-language.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
-<img src="https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/2-most-commit-language.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
-<img src="https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/3-stats.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
-<img src="https://raw.githubusercontent.com/abydow/abydow/main/profile-summary-card-output/transparent/4-productive-time.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" /> 
+<img src="https://raw.githubusercontent.com/abydow/abyd0w/main/profile-summary-card-output/transparent/0-profile-details.svg" width="1000" alt="https://github.com/vn7n24fzkq/github-profile-summary-cards" />
+<img src="https://raw.githubusercontent.com/abydow/abyd0w/main/profile-summary-card-output/transparent/1-repos-per-language.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
+<img src="https://raw.githubusercontent.com/abydow/abyd0w/main/profile-summary-card-output/transparent/2-most-commit-language.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
+<img src="https://raw.githubusercontent.com/abydow/abyd0w/main/profile-summary-card-output/transparent/3-stats.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
+<img src="https://raw.githubusercontent.com/abydow/abyd0w/main/profile-summary-card-output/transparent/4-productive-time.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" /> 
 
 </div>
 
