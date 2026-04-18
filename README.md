@@ -12,7 +12,7 @@
 
 </div>
 
-### Hi! I'm Anurag, a DevOps enthusiast from Kolkata on a mission to master cloud infrastructure automation and modern DevOps practices.
+### Hi! I'm Anurag, a dev from Kolkata on a mission to be a Full-Stack Dev .
 
 -  Currently learning: Front-End technologies
 -  Passionate about: Devops, Cloud, AI
