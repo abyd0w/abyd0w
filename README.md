@@ -12,7 +12,7 @@
 
 </div>
 
-### Hi! I'm Anurag, a dev from Kolkata on a mission to be a Full-Stack Dev .
+### Hi! I'm Anurag,from Kolkata on a mission to be a Full-Stack Dev .
 
 -  Currently learning: Front-End technologies
 -  Passionate about: Devops, Cloud, AI
@@ -67,14 +67,10 @@
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [www.linkedin.com/in/abydow]
+- **LinkedIn:** [www.linkedin.com/in/abyd0w]
 <!-- - **Twitter/X:** [URL] -->
-- **Email:** [abydow@hotmail.com]
+- **Email:** [abydow@outlook.com]
 <!-- - **Portfolio:** [URL if exists] -->
-
-## 💬 Latest Activity
-
-> switching to KDE cause cosmic is too buggy.
 
 <div align="center">
 
