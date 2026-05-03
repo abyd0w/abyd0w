@@ -43,6 +43,7 @@
 
 <img src="https://raw.githubusercontent.com/abyd0w/abyd0w/main/profile-summary-card-output/transparent/1-repos-per-language.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
 <img src="https://raw.githubusercontent.com/abyd0w/abyd0w/main/profile-summary-card-output/transparent/3-stats.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
+</div>
 
 ---
 
