@@ -6,17 +6,14 @@
 
 </div>
 
-<h1 align="center">❯ Hi, I'm Abyd</h1>
-
-<p align="center">
-If you have a project in mind, let's discuss it over a cup.
-</p>
+<div align="center">
+<h3> ❯ If you have a project in mind, let's discuss it over a cup. </h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1E90FF&height=2&section=header" />
 </p>
 
-
+</div>
 
 ```console
 ~
