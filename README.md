@@ -1,18 +1,3 @@
-<div align="center">
-
-<!-- Wave Animation Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" width="200%"/>
-
-
-</div>
-
-<div align="center">
-<h3> ❯ If you have a project in mind, let's discuss it over a cup. </h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1E90FF&height=2&section=header" />
-</p>
-
 </div>
 
 ```console
@@ -81,13 +66,3 @@ Front-End Technologies
 <!-- - **Twitter/X:** [URL] -->
 - **Email:** [abydow@outlook.com]
 <!-- - **Portfolio:** [URL if exists] -->
-
-<div align="center">
-
-### **"The best way to predict the future is to create it."**
-
-### 💙 Thank you for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
-
-</div>
