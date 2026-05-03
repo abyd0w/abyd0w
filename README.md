@@ -6,19 +6,38 @@
 
 </div>
 
-<div align="center">
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+24+Charted&size=70&duration=5000&pause=10000000&color=36BCF7&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Hi+there+|+I'm+Anurag+Banerjee" alt="Typing SVG" /></a>
+<h1 align="center">❯ Hi, I'm Abyd</h1>
 
-</div>
+<p align="center">
+If you have a project in mind, let's discuss it over a cup.
+</p>
 
-### Hi! I'm Anurag,from Kolkata on a mission to be a Full-Stack Dev .
-
--  Currently learning: Front-End technologies
--  Passionate about: Devops, Cloud, AI
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1E90FF&height=2&section=header" />
+</p>
 
 
+
+```console
+~
+❯ whoami
+Anurag Banerjee
+
+~
+❯ pwd
+/home/Kolkata/India
+~
+❯ echo $MISSION
+Full-Stack Developer
+
+~
+❯ echo $CURRENTLY_LEARNING
+Front-End Technologies
+
+~
+❯ echo $PASSIONS
+["DevOps", "Cloud", "AI"]
+```
 ## 🛠️ Tech Stack
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
 <div >
