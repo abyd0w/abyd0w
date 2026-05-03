@@ -17,7 +17,7 @@ Full-Stack Developer
 Front-End Technologies
 
 ~
-❯ echo $PASSIONS
+❯ echo $INTERESTS
 ["DevOps", "Cloud", "AI"]
 ```
 ## 🛠️ Tech Stack
