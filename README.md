@@ -35,7 +35,7 @@ Front-End Technologies
 
 ## 📂 Featured Projects
 
-- ![Frontend Projects](https://github.com/abyd0w/Frontend_Projects)
+- [Frontend Projects](https://github.com/abyd0w/Frontend_Projects)
 
 ## 📊GitHub Statistics
 
