@@ -50,11 +50,11 @@ Front-End Technologies
 
 ## 🎓 Learning Path
 
-**Current Focus:** HTML
+**Current Focus:** Computer Basics
 
 **Next Goal:** Css
 
-**Completed:** Python , Golang, linux 
+**Completed:** Python , Golang, linux , HTML
 
 **Roadmap:** [Roadmap](https://roadmap.sh/full-stack)
 
