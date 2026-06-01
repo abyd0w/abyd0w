@@ -63,6 +63,5 @@ Front-End Technologies
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [www.linkedin.com/in/abyd0w]
-<!-- - **Twitter/X:** [URL] -->
 - **Email:** [abydow@outlook.com]
 <!-- - **Portfolio:** [URL if exists] -->
