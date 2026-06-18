@@ -20,7 +20,7 @@ Front-End Technologies
 ❯ echo $INTERESTS
 ["DevOps", "Cloud", "AI"]
 ```
-## 🛠️ Tech Stack
+## 🛠️ Tech
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
 <div >
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
