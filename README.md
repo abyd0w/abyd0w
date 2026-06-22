@@ -50,11 +50,11 @@ Front-End Technologies
 
 ## 🎓 Learning Path
 
-**Current Focus:** Computer Basics
+**Current Focus:** CSS
 
-**Next Goal:** Css
+**Next Goal:** Responsive Webdesign Certification
 
-**Completed:** Python , Golang, linux , HTML
+**Completed:** Python , Golang, linux , HTML 
 
 **Roadmap:** [Roadmap](https://roadmap.sh/full-stack)
 
