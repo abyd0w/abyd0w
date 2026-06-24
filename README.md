@@ -1,41 +1,15 @@
-</div>
+<h1 align="center"> Hi there, I'm Anurag Banerjee 👋</h1>
 
-```console
-~
-❯ whoami
-Anurag Banerjee
 
-~
-❯ pwd
-/home/Kolkata/India
-~
-❯ echo $MISSION
-Full-Stack Developer
 
-~
-❯ echo $CURRENTLY_LEARNING
-Front-End Technologies
-
-~
-❯ echo $INTERESTS
-["DevOps", "Cloud", "AI"]
-```
-## 🛠️ Tech
+<h2 align="center"> Tech Stack </h2>
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
-<div >
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code>
 
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim"/></code>
-</div>
-
-
-## 📂 Featured Projects
-
-- [Frontend Projects](https://github.com/abyd0w/Frontend_Projects)
+||||
+| :-- | :-- | :-- |
+| <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code> | <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code> | <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim"/></code> |
+| <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code> | 
+| <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code> | 
 
 ## 📊GitHub Statistics
 
@@ -48,8 +22,6 @@ Front-End Technologies
 
 ---
 
-## 🎓 Learning Path
-
 **Current Focus:** CSS
 
 **Next Goal:** Responsive Webdesign Certification
@@ -59,9 +31,3 @@ Front-End Technologies
 **Roadmap:** [Roadmap](https://roadmap.sh/full-stack)
 
 ---
-
-## 🤝 Let's Connect
-
-- **LinkedIn:** [www.linkedin.com/in/abyd0w]
-- **Email:** [abydow@outlook.com]
-<!-- - **Portfolio:** [URL if exists] -->
