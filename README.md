@@ -1,33 +1,48 @@
-<h1 align="center"> Hi there, I'm Anurag Banerjee 👋</h1>
-
-
-
-<h2 align="center"> Tech Stack </h2>
-<!-- https://marwin1991.github.io/profile-technology-icons/ -->
-
-||||||
-| :-- | :-- | :-- | :-- | :-- |
-|| <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code> | <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code> | <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim"/></code> ||
-|| <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code> ||
-|| <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code> ||
-||||||
-## 📊GitHub Statistics
-
-<!-- Comprehensive stats with custom theme -->
 <div align="center">
+<h1>Hi there, I'm Abyd </h1>
+<h3>Full-Stack Software Engineer | AI-ML | Open Source Contributor</h3>
 
-<img src="https://raw.githubusercontent.com/abyd0w/abyd0w/main/profile-summary-card-output/transparent/1-repos-per-language.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
-<img src="https://raw.githubusercontent.com/abyd0w/abyd0w/main/profile-summary-card-output/transparent/3-stats.svg" width="400" alt="(https://github.com/vn7n24fzkq/github-profile-summary-cards)" />
+> A techy person trying to be the best
 </div>
 
----
+<div align="center"> 
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abyd0w/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abydow@outlook.com)
+  <img src="https://komarev.com/ghpvc/?username=abyd0w&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](URL) -->  
+</div>
 
-**Current Focus:** CSS
+<div align="center">
+  
+### Tech Stack
+<!-- https://marwin1991.github.io/profile-technology-icons/ -->
 
-**Next Goal:** Responsive Webdesign Certification
+<table>
+  <tr>
+    <th>Front<br>End</th>
+    <th>Back<br>End</th>
+    <th>Editor</th>
+    <th>Operating<br>Systems</th>
+  </tr>
+  <tr>
+    <td><img width="70" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></td>
+    <td><img width="70" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></td>
+    <td><img width="70" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim"/></td>
+    <td><img width="70" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch"/></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img width="70" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td><img width="70" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></td>
+    <td></td>
+    <td></td>
+    </tr>
+</table>
 
-**Completed:** Python , Golang, linux , HTML 
-
-**Roadmap:** [Roadmap](https://roadmap.sh/full-stack)
-
----
+</div>
