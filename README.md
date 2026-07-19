@@ -7,9 +7,7 @@
 
 <div align="center"> 
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abyd0w/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abydow@outlook.com)
-  <img src="https://komarev.com/ghpvc/?username=abyd0w&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  [LinkedIn](https://www.linkedin.com/in/abyd0w/)   |     [Email](mailto:abydow@outlook.com)
   <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](URL) -->  
 </div>
 
